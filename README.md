@@ -14,11 +14,12 @@ Mar 02/20
 
 Mar 05/20
 =========
-
-  **BIG BUG FIXES FOR BIG DATA**
   
   What's new
   ----------
+  
+   **BIG BUG FIXES FOR BIG DATA**
+   
   Now writes all entrys from stream to cvs file
   ```python
       C = {   
