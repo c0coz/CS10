@@ -16,6 +16,7 @@ Mar 05/20
 =========
 
   **BIG BUG FIXES FOR BIG DATA**
+  
   What's new
   ----------
   Now writes all entrys from stream to cvs file
